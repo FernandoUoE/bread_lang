@@ -28,4 +28,4 @@ To download the audio_files you have to click on the green "<>Code" button and t
 
 Help with the survey:
 
-Each question tells you which subfolder (Wheat_audios, Corn_audios, etc) you should listen to. Read the whole question to fully understand what you are rating. The transcription is there to indicate what the input text was and to help you decide which audio sounds the least. The slides for each question can be dragged from 0 (very bad) to 100 (very good). If all the questions suck equally indicate that by having the bars at the same number, but try your best to differentiate between them.
+Each question tells you which subfolder (Wheat_audios, Corn_audios, etc) you should listen to. Read the whole question to fully understand what you are rating. The transcription is there to indicate what the input text was and to help you decide which audio sounds worst. The slides for each question can be dragged from 0 (very bad) to 100 (very good). If all the questions suck equally, indicate that by having the bars at the same number, but try your best to differentiate between them.
