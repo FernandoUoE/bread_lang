@@ -1,6 +1,6 @@
 # 10 min Survey: rating synthesised voices
 
-Brief description: (PLease read all of this carefully)
+Brief description: (Please read all of this carefully)
 
 In this survey you will listen and rate some synthesised audios. The audios are quite bad (contain weird sound artefacts and noise) because we used some old-school tools (unit selection). Compare the three different audios for each question to make clear which audios suck the least.
 
