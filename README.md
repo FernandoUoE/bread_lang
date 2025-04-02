@@ -20,7 +20,7 @@ Sankiu for participating!
 Extra guide:
 
 Help with Github:
-To download the audio_files you have to click on the green "<>Code" button and then "Download ZIP". This will download all the files as a zip file to your Download folder and you might need to unzip the folder before being able to listen to the audios. If you don't understand something just send me a message and I will help you out.
+To download the audio_files you have to click on the green "<>Code" button and then "Download ZIP". This will download all the files as a zip file to your Downloads folder and you might need to unzip the folder before being able to listen to the audios. If you don't understand something just send me a message and I will help you out.
 
 Help with the survey:
 Each question tells you which subfolder (Wheat_audios, Corn_audios, etc) you should listen to. Read the whole question to fully understand what you are rating. The transcription is there to indicate what the input text was and to help you decide which audio sounds the least. The slides for each question can be dragged from 0 (very bad) to 100 (very good). If all the questions suck equally indicate that by having the bars at the same number, but try your best to differentiate between them.
