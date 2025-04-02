@@ -1,4 +1,4 @@
-# 10 min Survey: rating synthesised voices
+# 10 min Survey: Rate Synthesised Voices
 
 Brief description: (Please read all of this carefully)
 
@@ -14,6 +14,6 @@ Quick guide:
 - At the begining of each question a specific subfolder is specified (Wheat_audios, Corn_audios, etc), listen and compare all of the audio files.
 - Listening to all the audios takes less than 5 min, so please take your time and relisten to them if necessary when comparing.
 
-Thank you for participating!
+Sankiu for participating!
 
 
